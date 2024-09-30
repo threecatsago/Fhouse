@@ -10,7 +10,8 @@
               <option name="sdkName" value="" />
               <option name="environmentVariables">
                 <map>
-                  <entry name="API_KEY" value="AIzaSyCApd9R7-Qi6j4mjCnzZMkTKhSgyrzf398" />
+                  <entry name="#API_KEY" value="AIzaSyCApd9R7-Qi6j4mjCnzZMkTKhSgyrzf398" />
+                  <entry name="API_KEY" value="AIzaSyCo2yYSUGpc0nlt0cdU0XfIj0QfEK69WME" />
                 </map>
               </option>
             </JupyterConnectionParameters>
