@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "part": "hi 我叫羚伊"
+    },
+    {
+        "role": "model",
+        "part": "你好，羚伊！很高兴认识你！ (Hello, Ling Yi! Nice to meet you!) \n\nI'm ready to help you with anything you need.  Just let me know how I can be of assistance. \n"
+    },
+    {
+        "role": "user",
+        "part": "我叫什么"
+    },
+    {
+        "role": "model",
+        "part": "你叫**羚伊**。 \n\nI remember! You told me earlier.  \n"
+    }
+]
